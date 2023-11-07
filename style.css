@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Kenia&family=Permanent+Marker&family=Poppins&display=swap');
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    line-height: 1px;
+    background: url("adv1.jpg");
+}
+h1{
+    color: #6dfc53;
+    font-size: 100px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px black;
+}
+ p{
+    color: #ffb3a6;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px black;
+ }
+ #response{
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 0px black;
+ }
+
